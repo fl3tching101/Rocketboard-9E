@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Rocketboard-9E)(type Legacy)(uri ${KIPRJMOD}/Rocketboard-9E.lib)(options "")(descr ""))
+  (lib (name Rocketboard-Engine)(type Legacy)(uri C:/Users/Seth/Documents/KiCad/Rocketboard-Engine/Rocketboard-Engine.lib)(options "")(descr ""))
+)

@@ -1,0 +1,548 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Rocketboard-9E"
+Date "2021-09-02"
+Rev "1.0"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Rocketboard-9E:MX-NoLED MX1
+U 1 1 6131B6FB
+P 6400 3500
+F 0 "MX1" H 6433 3681 60  0000 C CNN
+F 1 "MX-NoLED" H 6433 3649 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 5775 3475 60  0001 C CNN
+F 3 "" H 5775 3475 60  0001 C CNN
+	1    6400 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rocketboard-9E:MX-NoLED MX2
+U 1 1 6131D903
+P 6850 3500
+F 0 "MX2" H 6883 3681 60  0000 C CNN
+F 1 "MX-NoLED" H 6883 3649 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 6225 3475 60  0001 C CNN
+F 3 "" H 6225 3475 60  0001 C CNN
+	1    6850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rocketboard-9E:MX-NoLED MX3
+U 1 1 6131F028
+P 7300 3500
+F 0 "MX3" H 7333 3681 60  0000 C CNN
+F 1 "MX-NoLED" H 7333 3649 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 6675 3475 60  0001 C CNN
+F 3 "" H 6675 3475 60  0001 C CNN
+	1    7300 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rocketboard-9E:MX-NoLED MX4
+U 1 1 61327D68
+P 6400 3950
+F 0 "MX4" H 6433 4131 60  0000 C CNN
+F 1 "MX-NoLED" H 6433 4099 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 5775 3925 60  0001 C CNN
+F 3 "" H 5775 3925 60  0001 C CNN
+	1    6400 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rocketboard-9E:MX-NoLED MX5
+U 1 1 61327D6E
+P 6850 3950
+F 0 "MX5" H 6883 4131 60  0000 C CNN
+F 1 "MX-NoLED" H 6883 4099 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 6225 3925 60  0001 C CNN
+F 3 "" H 6225 3925 60  0001 C CNN
+	1    6850 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rocketboard-9E:MX-NoLED MX6
+U 1 1 61327D74
+P 7300 3950
+F 0 "MX6" H 7333 4131 60  0000 C CNN
+F 1 "MX-NoLED" H 7333 4099 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 6675 3925 60  0001 C CNN
+F 3 "" H 6675 3925 60  0001 C CNN
+	1    7300 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rocketboard-9E:MX-NoLED MX7
+U 1 1 6132F8D4
+P 6400 4400
+F 0 "MX7" H 6433 4581 60  0000 C CNN
+F 1 "MX-NoLED" H 6433 4549 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 5775 4375 60  0001 C CNN
+F 3 "" H 5775 4375 60  0001 C CNN
+	1    6400 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rocketboard-9E:MX-NoLED MX8
+U 1 1 6132F8DA
+P 6850 4400
+F 0 "MX8" H 6883 4581 60  0000 C CNN
+F 1 "MX-NoLED" H 6883 4549 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 6225 4375 60  0001 C CNN
+F 3 "" H 6225 4375 60  0001 C CNN
+	1    6850 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Rocketboard-9E:MX-NoLED MX9
+U 1 1 6132F8E0
+P 7300 4400
+F 0 "MX9" H 7333 4581 60  0000 C CNN
+F 1 "MX-NoLED" H 7333 4549 20  0001 C CNN
+F 2 "Rocketboard-9E:MXOnly-1U-NoLED" H 6675 4375 60  0001 C CNN
+F 3 "" H 6675 4375 60  0001 C CNN
+	1    7300 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D1
+U 1 1 613331DE
+P 6450 3700
+F 0 "D1" H 6450 3585 50  0000 C CNN
+F 1 "D_Small" V 6405 3630 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6450 3700 50  0001 C CNN
+F 3 "~" V 6450 3700 50  0001 C CNN
+	1    6450 3700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6350 3650 6350 3700
+$Comp
+L Device:D_Small D2
+U 1 1 6133FECC
+P 6900 3700
+F 0 "D2" H 6900 3585 50  0000 C CNN
+F 1 "D_Small" V 6855 3630 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6900 3700 50  0001 C CNN
+F 3 "~" V 6900 3700 50  0001 C CNN
+	1    6900 3700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D3
+U 1 1 613408BE
+P 7350 3700
+F 0 "D3" H 7350 3585 50  0000 C CNN
+F 1 "D_Small" V 7305 3630 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7350 3700 50  0001 C CNN
+F 3 "~" V 7350 3700 50  0001 C CNN
+	1    7350 3700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6800 3650 6800 3700
+Wire Wire Line
+	7250 3650 7250 3700
+Wire Wire Line
+	7450 3700 7450 3750
+Wire Wire Line
+	7450 3750 7000 3750
+Wire Wire Line
+	6550 3750 6550 3700
+Wire Wire Line
+	7000 3700 7000 3750
+Connection ~ 7000 3750
+Wire Wire Line
+	7000 3750 6550 3750
+$Comp
+L Device:D_Small D4
+U 1 1 6134A862
+P 6450 4150
+F 0 "D4" H 6450 4035 50  0000 C CNN
+F 1 "D_Small" V 6405 4080 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6450 4150 50  0001 C CNN
+F 3 "~" V 6450 4150 50  0001 C CNN
+	1    6450 4150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6350 4100 6350 4150
+$Comp
+L Device:D_Small D5
+U 1 1 6134A869
+P 6900 4150
+F 0 "D5" H 6900 4035 50  0000 C CNN
+F 1 "D_Small" V 6855 4080 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6900 4150 50  0001 C CNN
+F 3 "~" V 6900 4150 50  0001 C CNN
+	1    6900 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D6
+U 1 1 6134A86F
+P 7350 4150
+F 0 "D6" H 7350 4035 50  0000 C CNN
+F 1 "D_Small" V 7305 4080 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7350 4150 50  0001 C CNN
+F 3 "~" V 7350 4150 50  0001 C CNN
+	1    7350 4150
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6800 4100 6800 4150
+Wire Wire Line
+	7250 4100 7250 4150
+Wire Wire Line
+	7450 4150 7450 4200
+Wire Wire Line
+	7450 4200 7000 4200
+Wire Wire Line
+	6550 4200 6550 4150
+Wire Wire Line
+	7000 4150 7000 4200
+Connection ~ 7000 4200
+Wire Wire Line
+	7000 4200 6550 4200
+$Comp
+L Device:D_Small D7
+U 1 1 6134C84C
+P 6450 4600
+F 0 "D7" H 6450 4485 50  0000 C CNN
+F 1 "D_Small" V 6405 4530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6450 4600 50  0001 C CNN
+F 3 "~" V 6450 4600 50  0001 C CNN
+	1    6450 4600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6350 4550 6350 4600
+$Comp
+L Device:D_Small D8
+U 1 1 6134C853
+P 6900 4600
+F 0 "D8" H 6900 4485 50  0000 C CNN
+F 1 "D_Small" V 6855 4530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 6900 4600 50  0001 C CNN
+F 3 "~" V 6900 4600 50  0001 C CNN
+	1    6900 4600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:D_Small D9
+U 1 1 6134C859
+P 7350 4600
+F 0 "D9" H 7350 4485 50  0000 C CNN
+F 1 "D_Small" V 7305 4530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123" V 7350 4600 50  0001 C CNN
+F 3 "~" V 7350 4600 50  0001 C CNN
+	1    7350 4600
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6800 4550 6800 4600
+Wire Wire Line
+	7250 4550 7250 4600
+Wire Wire Line
+	7450 4600 7450 4650
+Wire Wire Line
+	7450 4650 7000 4650
+Wire Wire Line
+	6550 4650 6550 4600
+Wire Wire Line
+	7000 4600 7000 4650
+Connection ~ 7000 4650
+Wire Wire Line
+	7000 4650 6550 4650
+Wire Wire Line
+	6550 4350 6650 4350
+Wire Wire Line
+	6650 4350 6650 3900
+Wire Wire Line
+	6550 3450 6650 3450
+Connection ~ 6650 3450
+Wire Wire Line
+	6650 3450 6650 3200
+Wire Wire Line
+	6550 3900 6650 3900
+Connection ~ 6650 3900
+Wire Wire Line
+	6650 3900 6650 3450
+Wire Wire Line
+	7000 4350 7100 4350
+Wire Wire Line
+	7100 4350 7100 3900
+Wire Wire Line
+	7000 3450 7100 3450
+Connection ~ 7100 3450
+Wire Wire Line
+	7100 3450 7100 3200
+Wire Wire Line
+	7000 3900 7100 3900
+Connection ~ 7100 3900
+Wire Wire Line
+	7100 3900 7100 3450
+Wire Wire Line
+	7450 4350 7550 4350
+Wire Wire Line
+	7550 4350 7550 3900
+Wire Wire Line
+	7450 3900 7550 3900
+Connection ~ 7550 3900
+Wire Wire Line
+	7550 3900 7550 3450
+Wire Wire Line
+	7450 3450 7550 3450
+Connection ~ 7550 3450
+Wire Wire Line
+	7550 3450 7550 3200
+Wire Wire Line
+	7450 4650 7750 4650
+Connection ~ 7450 4650
+Wire Wire Line
+	7450 4200 7750 4200
+Connection ~ 7450 4200
+Wire Wire Line
+	7450 3750 7750 3750
+Connection ~ 7450 3750
+Text Label 6650 3200 1    50   ~ 0
+col0
+Text Label 7100 3200 1    50   ~ 0
+col1
+Text Label 7750 3750 0    50   ~ 0
+row0
+Text Label 7750 4200 0    50   ~ 0
+row1
+Text Label 7750 4650 0    50   ~ 0
+row2
+$Comp
+L Connector_Generic:Conn_01x20 J1
+U 1 1 6137BA1C
+P 3400 3950
+F 0 "J1" H 3480 3942 50  0000 L CNN
+F 1 "Conn_01x20" H 3480 3851 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 3400 3950 50  0001 C CNN
+F 3 "~" H 3400 3950 50  0001 C CNN
+	1    3400 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x20 J2
+U 1 1 6137BA22
+P 4300 3950
+F 0 "J2" H 4218 5067 50  0000 C CNN
+F 1 "Conn_01x20" H 4218 4976 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x20_P2.54mm_Vertical" H 4300 3950 50  0001 C CNN
+F 3 "~" H 4300 3950 50  0001 C CNN
+	1    4300 3950
+	-1   0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 6137BA28
+P 4600 4950
+F 0 "#PWR0101" H 4600 4700 50  0001 C CNN
+F 1 "GND" V 4605 4822 50  0000 R CNN
+F 2 "" H 4600 4950 50  0001 C CNN
+F 3 "" H 4600 4950 50  0001 C CNN
+	1    4600 4950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 6137BA34
+P 3150 3050
+F 0 "#PWR0103" H 3150 2800 50  0001 C CNN
+F 1 "GND" V 3155 2922 50  0000 R CNN
+F 2 "" H 3150 3050 50  0001 C CNN
+F 3 "" H 3150 3050 50  0001 C CNN
+	1    3150 3050
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	4600 4950 4500 4950
+Wire Wire Line
+	3150 3150 3200 3150
+Wire Wire Line
+	3150 3250 3200 3250
+Wire Wire Line
+	3150 3350 3200 3350
+Wire Wire Line
+	3150 3450 3200 3450
+Wire Wire Line
+	3150 3550 3200 3550
+Wire Wire Line
+	3150 3650 3200 3650
+Wire Wire Line
+	3150 3750 3200 3750
+Wire Wire Line
+	3150 3850 3200 3850
+Wire Wire Line
+	3150 3950 3200 3950
+Wire Wire Line
+	3150 4050 3200 4050
+Wire Wire Line
+	3150 4150 3200 4150
+Wire Wire Line
+	3150 4250 3200 4250
+Wire Wire Line
+	3150 4350 3200 4350
+Wire Wire Line
+	3150 4450 3200 4450
+Wire Wire Line
+	4550 3150 4500 3150
+Wire Wire Line
+	4550 3250 4500 3250
+Wire Wire Line
+	4550 3350 4500 3350
+Wire Wire Line
+	4550 3450 4500 3450
+Wire Wire Line
+	4550 3550 4500 3550
+Wire Wire Line
+	4550 3650 4500 3650
+Wire Wire Line
+	4550 3750 4500 3750
+Wire Wire Line
+	4550 3850 4500 3850
+Wire Wire Line
+	4550 3950 4500 3950
+Wire Wire Line
+	4550 4050 4500 4050
+Wire Wire Line
+	4550 4150 4500 4150
+Wire Wire Line
+	4550 4250 4500 4250
+Wire Wire Line
+	4550 4350 4500 4350
+Wire Wire Line
+	4550 4450 4500 4450
+Wire Wire Line
+	4550 4550 4500 4550
+Wire Wire Line
+	4550 4650 4500 4650
+Wire Wire Line
+	3150 4550 3200 4550
+Wire Wire Line
+	3150 4650 3200 4650
+Wire Notes Line
+	3700 3000 3700 3100
+Wire Notes Line
+	3700 3100 4000 3100
+Wire Notes Line
+	4000 3100 4000 3000
+Wire Notes Line
+	4000 3000 3700 3000
+$Comp
+L power:GND #PWR0105
+U 1 1 6137BA81
+P 3100 4850
+F 0 "#PWR0105" H 3100 4600 50  0001 C CNN
+F 1 "GND" V 3105 4722 50  0000 R CNN
+F 2 "" H 3100 4850 50  0001 C CNN
+F 3 "" H 3100 4850 50  0001 C CNN
+	1    3100 4850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3100 4850 3200 4850
+$Comp
+L power:GND #PWR0106
+U 1 1 6137BA89
+P 4600 4750
+F 0 "#PWR0106" H 4600 4500 50  0001 C CNN
+F 1 "GND" V 4605 4622 50  0000 R CNN
+F 2 "" H 4600 4750 50  0001 C CNN
+F 3 "" H 4600 4750 50  0001 C CNN
+	1    4600 4750
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4600 4750 4500 4750
+Wire Wire Line
+	3150 3050 3200 3050
+Text Label 4550 3150 0    50   ~ 0
+col0
+Text Label 4550 3250 0    50   ~ 0
+col1
+Text Label 7550 3200 1    50   ~ 0
+col2
+Text Label 4550 3350 0    50   ~ 0
+col2
+Text Label 3150 4450 2    50   ~ 0
+row0
+Text Label 3150 4550 2    50   ~ 0
+row1
+Text Label 3150 4650 2    50   ~ 0
+row2
+NoConn ~ 3150 3150
+NoConn ~ 3150 3250
+NoConn ~ 3150 3350
+NoConn ~ 3150 3450
+NoConn ~ 3150 3550
+NoConn ~ 3150 3650
+NoConn ~ 3150 3750
+NoConn ~ 3150 3850
+NoConn ~ 3150 3950
+NoConn ~ 3150 4050
+NoConn ~ 3150 4150
+NoConn ~ 3150 4250
+NoConn ~ 3150 4350
+NoConn ~ 4550 3450
+NoConn ~ 4550 3550
+NoConn ~ 4550 3650
+NoConn ~ 4550 3750
+NoConn ~ 4550 3850
+NoConn ~ 4550 3950
+NoConn ~ 4550 4050
+NoConn ~ 4550 4150
+NoConn ~ 4550 4250
+NoConn ~ 4550 4350
+NoConn ~ 4550 4450
+NoConn ~ 4550 4550
+NoConn ~ 4550 4650
+Text Notes 4900 3150 2    50   ~ 0
+PB0
+Text Notes 4900 3250 2    50   ~ 0
+PB1
+Text Notes 4900 3350 2    50   ~ 0
+PB2
+Text Notes 2950 4450 2    50   ~ 0
+PB3
+Text Notes 2950 4550 2    50   ~ 0
+PB4
+Text Notes 2950 4650 2    50   ~ 0
+PB5
+NoConn ~ 4500 4850
+NoConn ~ 3200 4950
+NoConn ~ 3200 4750
+NoConn ~ 4500 3050
+Text Notes 3550 2800 2    50   ~ 0
+Rocketboard Engine\nConnectors
+Wire Notes Line
+	2700 2550 2700 5100
+Wire Notes Line
+	2700 5100 5000 5100
+Wire Notes Line
+	5000 5100 5000 2550
+Wire Notes Line
+	5000 2550 2700 2550
+Text Notes 6500 3200 2    50   ~ 0
+Keyboard\nMatrix
+Wire Notes Line
+	6050 2900 6050 4800
+Wire Notes Line
+	6050 4800 8050 4800
+Wire Notes Line
+	8050 4800 8050 2900
+Wire Notes Line
+	8050 2900 6050 2900
+$EndSCHEMATC
